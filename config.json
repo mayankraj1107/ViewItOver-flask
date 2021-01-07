@@ -1,0 +1,17 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/viewitover",
+        "pod_uri": "mysql://root:@localhost/viewitover",
+        "fb_url": "https://facebook.com/viewitover",
+        "tw_url": "https://twitter.com/viewitover",
+        "gh_url": "https://github.com/viewitover",
+        "blog_name": "ViewitOver",
+        "gmail_user": "workstuff1107@gmail.com",
+        "gmail_password": "muk@2312",
+        "no_of_post": 3,
+        "admin_user": "mayank@raj11",
+        "admin_password": "muk@2312",
+        "upload_location": "C:\\Users\\KIIT\\Desktop\\FLASK\\new learn flask\\static\\img"
+    }
+}
